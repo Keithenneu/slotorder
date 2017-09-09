@@ -251,7 +251,7 @@ namespace SlotOrder
                 BackColor = bgcolor,
                 BorderStyle = BorderStyle.FixedSingle,
                 Width = parent.Width - 10,
-                Height = 25,
+                Height = 25
             };
             panel.Click += click;
 
