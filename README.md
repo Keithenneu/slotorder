@@ -1,6 +1,10 @@
 # slotorder
 Tool to change the order of groups/units in arma3 missions
 
+# Download
+
+Single executable, get it from 
+
 # Manual
 The mission should not be opened in Arma editor, while it is being edited here.
 
