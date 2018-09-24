@@ -35,20 +35,21 @@
             // textBox1
             // 
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.textBox1.Cursor = System.Windows.Forms.Cursors.WaitCursor;
             this.textBox1.Location = new System.Drawing.Point(12, 12);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(379, 117);
+            this.textBox1.Size = new System.Drawing.Size(379, 145);
             this.textBox1.TabIndex = 0;
             this.textBox1.Text = resources.GetString("textBox1.Text");
+            this.textBox1.UseWaitCursor = true;
             // 
             // Manual
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(386, 141);
+            this.ClientSize = new System.Drawing.Size(386, 161);
             this.Controls.Add(this.textBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
@@ -56,6 +57,7 @@
             this.Name = "Manual";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.Text = "   Info";
+            this.UseWaitCursor = true;
             this.ResumeLayout(false);
             this.PerformLayout();
 
