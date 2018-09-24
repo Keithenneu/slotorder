@@ -19,3 +19,7 @@ THIS TOOL IS EXPERIMENTAL. TEST YOUR MISSION.
 # Beowulf
 
 This tool was originally develop in https://beowulfso.com, come check us out!
+
+# Help
+
+Was originally designed for use within our community. But shouldn't rely on any mission specific things. Just give me a shout if anything's acting up.
