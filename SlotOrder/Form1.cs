@@ -352,7 +352,7 @@ namespace SlotOrder
 
         private void versionToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Process.Start("https://dev.beowulfso.com/maniphest/");
+            Process.Start("https://github.com/Keithenneu/slotorder/issues");
         }
 
         private void infoToolStripMenuItem_Click(object sender, EventArgs e)
