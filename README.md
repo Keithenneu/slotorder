@@ -3,7 +3,7 @@ Tool to change the order of groups/units in arma3 missions
 
 # Download
 
-Single executable, get it from 
+Single executable, get it from the releases page (https://github.com/Keithenneu/slotorder/releases)
 
 # Manual
 The mission should not be opened in Arma editor, while it is being edited here.
